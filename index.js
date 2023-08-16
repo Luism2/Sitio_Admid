@@ -89,7 +89,7 @@ var firebaseConfig = {
       // DOne
       alert('User Logged In!!')
       setTimeout(function(){
-        window.location.href = '/admind/admin.html'
+        window.location.href = '/admind/admind.html'
         
       }, 1000);
   
